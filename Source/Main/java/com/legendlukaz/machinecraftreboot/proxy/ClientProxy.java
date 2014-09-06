@@ -1,4 +1,5 @@
 package com.legendlukaz.machinecraftreboot.proxy;
 
-public class ClientProxy {
+public class ClientProxy extends CommonProxy
+{
 }
